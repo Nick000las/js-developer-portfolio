@@ -9,12 +9,12 @@
 }
 
 .languages li{
-    padding-left: 1rem;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
     font-weight: 700;
+    padding-right: 1rem;
 }
 
 .languages li::before{
@@ -24,6 +24,6 @@
     display: inline-block;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/Assets/imagens/check.svg');
+    background-image: url('/Portfolio/Assets/imagens/check.svg');
     margin-right: .5rem;
 }
