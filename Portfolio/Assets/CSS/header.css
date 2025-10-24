@@ -12,7 +12,7 @@ header::after{
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/Portfolio/Assets/imagens/more.svg');
+    background-image: url('../imagens/more.svg');
     position: absolute;
     top: 1rem;
     right: 1rem;
@@ -52,19 +52,19 @@ header::after{
 }
 
 .information .job::before{
-    background-image: url('/Portfolio/Assets/imagens/person.svg');
+    background-image: url('../imagens/person.svg');
 }
 
 .information .location::before{
-    background-image: url('/Portfolio/Assets/imagens/location.svg');
+    background-image: url('../imagens/location.svg');
 }
 
 .information .number::before{
-    background-image: url('/Portfolio/Assets/imagens/call.svg');
+    background-image: url('../imagens/call.svg');
 }
 
 .information .email::before{
-    background-image: url('/Portfolio/Assets/imagens/mail.svg');
+    background-image: url('../imagens/mail.svg');
 }
 
 
