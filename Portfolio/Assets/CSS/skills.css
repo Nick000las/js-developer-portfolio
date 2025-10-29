@@ -18,6 +18,7 @@
 .skills .tools ul li img{
     max-width: 50px;
     margin: 0.5rem;
+    max-height: 50px;
 }
 
 .skills .softSkills ul{
