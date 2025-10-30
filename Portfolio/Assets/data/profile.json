@@ -38,11 +38,11 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (fluente)"
+    "Inglês"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "name": "Curso da DIO, criação de uma Pokedex",
       "url": "https://github.com/Nick000las/js-developer-pokedex",
       "github": true
     }
